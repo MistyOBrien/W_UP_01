@@ -69,4 +69,5 @@ t.test(pushups~position,data=mydata)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+  
+   The people who were skill players did 3 times more push-ups than the people who were line players. The t. test we ran shows the these results are extremely unlikey if we assume that the line and skill players do the same amount of push-ups 
